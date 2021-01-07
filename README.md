@@ -1,5 +1,7 @@
 # NauMaiView
 
+![Build Status](https://github.com/longoria/NauMaiView/workflows/NauMaiView/badge.svg)
+
 "[Nau mai](https://maoridictionary.co.nz/word/4356)" is Māori for "Welcome".
 
 NauMaiView is a very simple horizontally sliding, image-based SwiftUI View package.
